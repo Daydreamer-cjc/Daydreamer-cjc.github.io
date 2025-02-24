@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(765)775-5625</p>
+    <p>(765)772-5625</p>
     <p>Purdue University</p>
     <p>West Lafayette, IN 47907</p>
 
