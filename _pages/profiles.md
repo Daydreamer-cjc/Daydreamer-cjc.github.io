@@ -13,7 +13,7 @@ profiles:
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
-    more_info: >
+    more_info: |
       <p>(765)772-5625</p>
       <p>Purdue University</p>
       <p>West Lafayette, IN 47906</p>
@@ -21,7 +21,7 @@ profiles:
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
-    more_info: >
+    more_info: |
       <p>(765)772-5625</p>
       <p>Purdue University</p>
       <p>West Lafayette, IN 47906</p>
