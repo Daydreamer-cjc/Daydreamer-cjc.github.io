@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Good thoughts, good words, good deeds
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: |
-    <p>(765)772-5625</p>
+    <p></p>
     <p>Purdue University</p>
     <p>West Lafayette, IN 47907</p>
 
